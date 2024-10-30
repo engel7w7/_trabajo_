@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trabajo_sis204\\consultorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD68A2-4BF4-49B2-9EA9-85DB25AB6180}|consultorio.vcxproj|D:\\Trabajo_sis204\\consultorio\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B3CD68A2-4BF4-49B2-9EA9-85DB25AB6180}|consultorio.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD68A2-4BF4-49B2-9EA9-85DB25AB6180}|consultorio.vcxproj|D:\\Trabajo_sis204\\consultorio\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3CD68A2-4BF4-49B2-9EA9-85DB25AB6180}|consultorio.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47214E1-F984-4C1D-AD3B-98BFF269D9EF}|..\\ClinicaLib\\ClinicaLib.vcxproj|D:\\Trabajo_sis204\\ClinicaLib\\ClinicaLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD68A2-4BF4-49B2-9EA9-85DB25AB6180}|consultorio.vcxproj|D:\\Trabajo_sis204\\consultorio\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3CD68A2-4BF4-49B2-9EA9-85DB25AB6180}|consultorio.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClinicaLib.h",
+              "DocumentMoniker": "D:\\Trabajo_sis204\\ClinicaLib\\ClinicaLib.h",
+              "RelativeDocumentMoniker": "..\\ClinicaLib\\ClinicaLib.h",
+              "ToolTip": "D:\\Trabajo_sis204\\ClinicaLib\\ClinicaLib.h",
+              "RelativeToolTip": "..\\ClinicaLib\\ClinicaLib.h",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-29T13:54:00.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\Trabajo_sis204\\consultorio\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\Trabajo_sis204\\consultorio\\MyForm.h",
+              "RelativeToolTip": "MyForm.h",
+              "ViewState": "AQIAAJEBAAAAAAAAAAAIwKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-29T13:48:59.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\Trabajo_sis204\\consultorio\\MyForm.cpp",
+              "RelativeDocumentMoniker": "MyForm.cpp",
+              "ToolTip": "D:\\Trabajo_sis204\\consultorio\\MyForm.cpp",
+              "RelativeToolTip": "MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T13:46:54.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Trabajo_sis204\\consultorio\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\Trabajo_sis204\\consultorio\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-29T13:46:14.737Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

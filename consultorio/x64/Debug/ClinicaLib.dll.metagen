@@ -1,0 +1,41 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly ClinicaLib, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ClinicaLib.Consulta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Fecha : Public
+    System.String Motivo : Public
+    System.String Diagnostico : Public
+    System.String Tratamiento : Public
+    Double Costo : Public
+Class ClinicaLib.Paciente: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Nombre : Public
+    Int32 Edad : Public
+    System.String Genero : Public
+    System.String Contacto : Public
+    System.Collections.Generic.List`1[ClinicaLib.Consulta] HistorialConsultas : Public
+    Double TotalAcumulado : Public
+    System.String EstadoPago : Public
+  Methods:
+    AgregarConsulta(Consulta): PrivateScope, Public, HideBySig
+    ObtenerHistorialMedico(): PrivateScope, Public, HideBySig
+Class ClinicaLib.GestorClinica: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AgregarPacienteACola(Paciente): PrivateScope, Public, HideBySig
+    AtenderSiguientePaciente(): PrivateScope, Public, HideBySig
+    VerSiguientePaciente(): PrivateScope, Public, HideBySig
+    RegistrarPaciente(Paciente): PrivateScope, Public, HideBySig
+    ObtenerPacientesRegistrados(): PrivateScope, Public, HideBySig
+    BuscarPaciente(String): PrivateScope, Public, HideBySig

@@ -1,0 +1,5 @@
+D:\Trabajo_sis204\consultorio\x64\Debug\ClinicaLib.pdb
+D:\Trabajo_sis204\consultorio\consultorio\x64\Debug\consultorio.vcxproj.AssemblyReference.cache
+D:\Trabajo_sis204\consultorio\consultorio\x64\Debug\consultorio.MyForm.resources
+D:\Trabajo_sis204\consultorio\consultorio\x64\Debug\consultorio.vcxproj.GenerateResource.cache
+D:\Trabajo_sis204\consultorio\consultorio\x64\Debug\consulto.0FEFCBB2.Up2Date
